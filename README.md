@@ -1,4 +1,5 @@
-<h1>Hi, I'm Elena!
+<h1>Hi, I'm Elena!  
+I'm a second year electrical engineering major at Georgia Tech interested in analog electronics and biomedical instrumentation.
 
 <h2>⚡Hardware Projects:</h2>
 
