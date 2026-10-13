@@ -1,6 +1,6 @@
 <h1>Hi, I'm Elena!</h1>
 
-I'm a second year electrical engineering major at Georgia Tech interested in bio- and wearable electronics, PCB design, and embedded systems. As part of a Vertically Integrated Project (VIP) team, I am helping design, assemble, and test flexible PCBs integrating haptics actuators and EMG sensors for anxiety management in classrooms.  
+I'm a second year electrical engineering major at Georgia Tech interested in bio- and wearable electronics, PCB design, and embedded systems. As part of a Vertically Integrated Project (VIP) research team, I am helping design, assemble, and test flexible PCBs integrating haptics actuators and EMG sensors for anxiety management in classrooms.  
 
 I love working with my hands! I work as an Electronics Shop Hand at the Biomedical Engineering Design Shop and a Peer Instructor at the Georgia Tech HIVE (Electrical and Computer Engineering) makerspace. Here I am pictured volunteering for a DC-DC converter workshop.   
 
