@@ -1,5 +1,7 @@
 <h1>Hi, I'm Elena!</h1>
 
+<img width="922" height="1057" alt="image" src="https://github.com/user-attachments/assets/4adc63f7-6f8d-4f75-94e1-395d5402fb42" />
+
 <h2>⚡Hardware Projects:</h2>
 
 - [EMG analog front end board](https://github.com/elzhang19/EMG-analog-front-end-board)
